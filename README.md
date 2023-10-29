@@ -1,6 +1,9 @@
-### Hi there 👋
+### 🐣 kcat2201 🐥
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcat2201)](https://solved.ac/kcat2201/)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcat2201&show_icons=true&theme=dracula)-->
+
 <!--
 **kcat2201/kcat2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
