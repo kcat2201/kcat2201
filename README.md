@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcat2201)](https://solved.ac/kcat2201/)
 <!--
 **kcat2201/kcat2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
